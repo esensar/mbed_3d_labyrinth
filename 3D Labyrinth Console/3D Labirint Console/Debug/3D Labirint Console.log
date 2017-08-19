@@ -1,0 +1,8 @@
+﻿  main.cpp
+e:\projects\3d labirint recreation\3d labirint console\3d labirint console\main.cpp(121): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\projects\3d labirint recreation\3d labirint console\3d labirint console\main.cpp(1164): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\projects\3d labirint recreation\3d labirint console\3d labirint console\main.cpp(1171): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\projects\3d labirint recreation\3d labirint console\3d labirint console\main.cpp(1177): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\projects\3d labirint recreation\3d labirint console\3d labirint console\main.cpp(1184): warning C4305: 'argument': truncation from 'double' to 'float'
+  3D Labirint Console.vcxproj -> E:\Projects\3D Labirint recreation\3D Labirint Console\Debug\3D Labirint Console.exe
+  3D Labirint Console.vcxproj -> E:\Projects\3D Labirint recreation\3D Labirint Console\Debug\3D Labirint Console.pdb (Full PDB)
