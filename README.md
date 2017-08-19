@@ -25,7 +25,7 @@ Used pins:
 ### Controls
 
 For all controls, only joystick is used and the switch included on platform (if it is not, it should be used connected to a digital input pin).
-Before switching the game one, simple looping animation is displayed, switching between different images that are used to draw all possible combinations of visible walls in the game.
+Before switching the game on, simple looping animation is displayed, switching between different images that are used to draw all possible combinations of visible walls in the game.
 Once the switch is pressed the game starts. To move forward, simply move the joystick up. Holding it up will cause that action to repeat. Walking into walls will just return the player to the same position.
 Moving joystick left and right will make the player turn in place. Moving joystick down opens up the map, which will display player as an arrow.
 
