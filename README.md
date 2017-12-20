@@ -36,8 +36,8 @@ but I wanted to leave the code in its original state. At that point we were sati
 
 ## TODO - Cleaning up the repository  
 - [x] Upload to GitHub from mbed  
-- [ ] Add windows console adaptation  
-- [ ] Add unix console adaptation  
+- [x] Add windows console adaptation  
+- [x] Add unix console adaptation  
 - [ ] Translate parts of code not written in english  
 - [x] Add a more detailed documentation with images  
 - [ ] Explain codes of block
